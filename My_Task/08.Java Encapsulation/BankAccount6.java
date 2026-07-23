@@ -1,4 +1,4 @@
-public class BankAccount1 {
+public class BankAccount6 {
     
       // Private Attributes
     private int accountNumber;

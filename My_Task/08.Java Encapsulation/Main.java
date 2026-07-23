@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Create BankAccount object
-        BankAccount1 account = new BankAccount1();
+        BankAccount6 account = new BankAccount6();
 
         // Set account details
         account.setAccountNumber(20050605);
