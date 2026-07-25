@@ -1,4 +1,4 @@
-class Employee {
+class Employee8 {
     String Name;
     int id;
    
@@ -8,7 +8,7 @@ class Employee {
     System.out.println("Employee ID: " + id);
    }
 }
-class FullTimeEmployee extends Employee{
+class FullTimeEmployee extends Employee8{
     double MonthlySalary;
 
     void CalculateSalary(){
@@ -16,7 +16,7 @@ class FullTimeEmployee extends Employee{
     }
 }
 
-class PartTimeEmployee extends Employee{
+class PartTimeEmployee extends Employee8{
     
     int hoursWorked;
     double hourlyRate;
